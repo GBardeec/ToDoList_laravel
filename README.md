@@ -26,5 +26,5 @@
 `php artisan serve` or **nginx** setup
 
 #### Other
-- Register and set yourself as admin: set is_admin to 1 in users table
+- To study the full functionality of the application register
 
